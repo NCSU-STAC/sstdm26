@@ -1,6 +1,6 @@
-# IEEE ICDM 20th International Workshop on Spatial and Spatiotemporal Data Mining (SSTDM-2025)
+# IEEE ICDM 21st International Workshop on Spatial and Spatiotemporal Data Mining (SSTDM-2026)
 
-https://stac-lab.github.io/sstdm25/
+https://stac-lab.github.io/sstdm26/
 
 *** Call for Papers (Final Deadline Extended) ***
 
@@ -48,4 +48,4 @@ Nov 12, 2025: Workshop date
 This is an open call-for-papers. We invite both full papers (max 8 pages) describing mature work and short papers (max 4-5 pages) describing work-in-progress or case studies. Only original and high-quality papers formatted using the IEEE 2-column format (Latex Template: https://www.ieee.org/conferences/publishing/templates.html), including the bibliography and any possible appendices will be considered for reviewing.
 
 *** Proceedings ***
-All submitted papers will be evaluated by 2-3 program committee members, and accepted papers will be included in an ICDM Workshop Proceedings volume, to be published by IEEE Computer Society Press and will be included in the IEEE Xplore Digital Library. Check workshop website for submission instructions (https://stac-lab.github.io/sstdm25/submissions/).
+All submitted papers will be evaluated by 2-3 program committee members, and accepted papers will be included in an ICDM Workshop Proceedings volume, to be published by IEEE Computer Society Press and will be included in the IEEE Xplore Digital Library. Check workshop website for submission instructions (https://stac-lab.github.io/sstdm26/submissions/).
